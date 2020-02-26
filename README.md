@@ -1,2 +1,2 @@
 # CoffeeMachine
-Hyperskill Project
+Hyperskill Project #1
